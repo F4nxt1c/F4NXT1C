@@ -10,19 +10,18 @@ I'm a Full Stack LUA Scripter passionate about building Roblox games/Managing Co
 
 ---
 
-### 🛠️ Languages
+### 🛠️ Languages & Tools
 
-![AutoHotkey](https://img.shields.io/badge/AutoHotkey-334455?style=for-the-badge&logo=autohotkey&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
----
----
+![AutoHotkey](https://img.shields.io/badge/AutoHotkey-334455?style=for-the-badge&logo=autohotkey&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-00A2FF?style=for-the-badge&logo=roblox&logoColor=white)
 
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" height="165" />
+  <img src="https://streak-stats.demolab.com?user=Natdanai&theme=tokyonight" alt="GitHub Streak" height="165" />
 </p>
 
 ---
@@ -31,3 +30,11 @@ I'm a Full Stack LUA Scripter passionate about building Roblox games/Managing Co
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/431098666325901312)
 [![Carrd](https://img.shields.io/badge/Carrd-141414?style=for-the-badge&logo=carrd&logoColor=white)](https://f4nxt1c.carrd.co/)
+
+---
+
+### 🎮 Featured Projects
+
+- Combat Macro for specific games  —  write by AutoHotkey
+- Auto Farmming Macro for specific games  —  write by AutoHotkey Published into Applicatuib
+  
