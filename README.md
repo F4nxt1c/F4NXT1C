@@ -29,5 +29,5 @@ I'm a Full Stack LUA Scripter passionate about building Roblox games/Managing Co
 
 ### 🤝 Connect with Me
 
-[![Carrd.co](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://f4nxt1c.carrd.co/)
-[![Discord](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://discord.com/users/431098666325901312)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/431098666325901312)
+[![Carrd](https://img.shields.io/badge/Carrd-141414?style=for-the-badge&logo=carrd&logoColor=white)](https://f4nxt1c.carrd.co/)
