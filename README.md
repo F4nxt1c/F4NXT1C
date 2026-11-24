@@ -36,5 +36,5 @@ I'm a Full Stack LUA Scripter passionate about building Roblox games/Managing Co
 ### 🎮 Featured Projects
 
 - Combat Macro for specific games  —  write by AutoHotkey
-- Auto Farmming Macro for specific games  —  write by AutoHotkey Published into Applicatuib
+- Auto Farmming Macro for specific games  —  write by AutoHotkey Published into Application
   
